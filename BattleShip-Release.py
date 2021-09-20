@@ -1,7 +1,7 @@
 """
 BattleShip Game
 User VS Computer - Blast the enemy ship to Win.
-Created By: Mr. BlackSmith
+Created By: Blackranger07
 March 7, 2019
 Changelog:
 Version 1.1
